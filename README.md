@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Shifra-AI](https://shifra-ai.vercel.app/)
 
-- 🌱 I’m currently learning **Next.JS, TypeScript**
+- 🌱 I’m currently learning **Next.JS, React-native TypeScript**
 
 - 👨‍💻 All of my projects are available at [https://prem-s-portfolio.vercel.app/](https://prem-s-portfolio.vercel.app/)
 
