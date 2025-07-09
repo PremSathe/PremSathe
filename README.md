@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Prem Sathe</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 🔭 I’m currently working on [Shifra-AI](https://shifra-ai.vercel.app/)
+- 🔭 I’m currently working on E-commerce MERN STACK Application.
 
 - 🌱 I’m currently learning **Next.JS, React-native, TypeScript**
 
